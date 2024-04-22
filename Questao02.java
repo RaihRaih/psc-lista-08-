@@ -1,3 +1,4 @@
+/*Raissa Rodrigues - Sistemas de infomacao */
 import java.util.Scanner;
 
 public class Questao02 {
